@@ -14,27 +14,27 @@ Este repositorio contiene todo lo necesario para construir y ejecutar una imagen
 
 ## Construcción de la imagen
 
-Clona este repositorio o descarga los archivos:
-git clone https://github.com/Vcandiam/EV2.git \
-cd nagios-docker
+Clona este repositorio o descarga los archivos:\
+**git clone https://github.com/Vcandiam/EV2.git \**
+**cd nagios-docker**
 
 ---
 
 ## Construccion de la imagen
 Construye la imagen docker:\
-docker build -t nagios-core .
+**docker build -t nagios-core .**
 
 ---
 
 ## Ejecucion del contenedor
 Ejecuta el contenedor con el siguiente comando: \
-docker run -d --name nagios -p 8080:80 nagios-core
+**docker run -d --name nagios -p 8080:80 nagios-core**
 
 ---
 
 ## Acceso a la interfaz Web
 Abre tu navegador e ingresa a la siguiente URL \
-http://localhost:8080/nagios
+**http://localhost:8080/nagios**
 
 ---
 

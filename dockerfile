@@ -2,7 +2,7 @@
 FROM ubuntu:22.04
 
 # Mantenedor
-LABEL maintainer="tu_nombre@ejemplo.com"
+LABEL maintainer="vi.candia@duocuc.cl"
 
 # Variables de entorno para facilitar configuración
 ENV NAGIOS_USER=nagiosadmin \
