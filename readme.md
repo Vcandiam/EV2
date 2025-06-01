@@ -16,7 +16,7 @@ Este repositorio contiene todo lo necesario para construir y ejecutar una imagen
 
 Clona este repositorio o descarga los archivos:\
 **git clone https://github.com/Vcandiam/EV2.git** \
-**cd nagios-docker**
+**cd EV2**
 
 ---
 
